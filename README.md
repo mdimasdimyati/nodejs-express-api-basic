@@ -9,3 +9,5 @@ Membuat api basic dengan node express, CRUD Alamat indonesia.
 
 Selesai
 
+*Ref : https://dazelpro.com/article/belajar-membuat-restful-api-dengan-express-js-dan-mysql
+
