@@ -1,5 +1,5 @@
 {
-  "name": "api-basih-nodeexpress",
+  "name": "api-basic-nodeexpress",
   "version": "1.0.0",
   "description": "Membuat API sederhana dengan node express js",
   "main": "app.js",
